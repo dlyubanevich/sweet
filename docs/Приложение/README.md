@@ -1,1 +1,1 @@
-# sweet
+# ![SWEET](../../logo/logo.svg) sweet
