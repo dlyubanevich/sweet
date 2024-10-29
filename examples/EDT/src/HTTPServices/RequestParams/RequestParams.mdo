@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5b3e01e8-9005-49f1-91e2-138eb86ee2fd">
+  <name>RequestParams</name>
+  <synonym>
+    <key>ru</key>
+    <value>Разделы &quot;Параметры URL&quot;, &quot;Параметры запроса&quot;, &quot;Заголовки&quot;</value>
+  </synonym>
+  <rootURL>RequestParams</rootURL>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+  <urlTemplates uuid="4a7b9196-d9b7-4ce5-a25e-d965da205974">
+    <name>Path</name>
+    <synonym>
+      <key>ru</key>
+      <value>Path</value>
+    </synonym>
+    <template>/Path/{path1}/{path2}/{path3}/{path4}</template>
+    <methods uuid="3ed489e6-98c8-4afc-b041-bacde14298be">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>Пример описания параметров URL</value>
+      </synonym>
+      <handler>PathGET</handler>
+    </methods>
+  </urlTemplates>
+  <urlTemplates uuid="d3481180-cdae-40a1-9c7f-cf652f903e8b">
+    <name>Header</name>
+    <synonym>
+      <key>ru</key>
+      <value>Header</value>
+    </synonym>
+    <template>/Header</template>
+    <methods uuid="5704b034-9b52-4a6d-b057-318d718e28a4">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>Пример описания заголовков</value>
+      </synonym>
+      <handler>HeaderGET</handler>
+    </methods>
+  </urlTemplates>
+  <urlTemplates uuid="89354d23-b172-4a98-a347-f524c6feae89">
+    <name>Query</name>
+    <synonym>
+      <key>ru</key>
+      <value>Query</value>
+    </synonym>
+    <template>/Query</template>
+    <methods uuid="90f248d7-43da-4b0a-86c4-42342bd6b89b">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>Пример описания параметров запроса</value>
+      </synonym>
+      <handler>QueryGET</handler>
+    </methods>
+  </urlTemplates>
+</mdclass:HTTPService>

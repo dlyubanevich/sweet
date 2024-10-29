@@ -1,0 +1,15 @@
+{
+  "input": "./",
+  "title": "SWEET EXAMPLES",
+  "api": "1.0",
+  "description": "Примеры описаний http-сервисов",
+  "servers": [
+    "http://localhost:80/hs"
+  ],
+  "urls": {
+    "exclude": [
+      "Swagger"
+    ]
+  },
+  "output": "./"
+}

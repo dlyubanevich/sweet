@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5370cb61-ab2e-4027-aece-7f1d1640b4d3">
+  <name>Examples</name>
+  <synonym>
+    <key>ru</key>
+    <value>Examples</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="e376151d-39c6-4dcd-a721-90faa1838034"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="74c25581-c755-4f44-98dc-dfb58ee8131b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="13cba6ab-4c54-491d-84d7-ad6bf4af720f"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="87ee7fdd-684d-448d-a9c3-ad0eb29dc242"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="27b15d53-2369-4973-9f1c-5fcf883c575c"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="8381ca5c-2f6e-47e0-8fa5-d4820dd635e1"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="fdde7486-47c5-4784-9f7a-3e328d6432cc"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
+  <languages uuid="fcc2c98a-0b9f-4284-8a4b-754aae88e92e">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonTemplates>CommonTemplate.HttpServicesXML</commonTemplates>
+  <commonTemplates>CommonTemplate.ImageJPG</commonTemplates>
+  <commonTemplates>CommonTemplate.SwaggerUI</commonTemplates>
+  <commonTemplates>CommonTemplate.SweetOAS</commonTemplates>
+  <commonModules>CommonModule.ОбщегоНазначенияHTTP</commonModules>
+  <httpServices>HTTPService.Bodies</httpServices>
+  <httpServices>HTTPService.ContentTypes</httpServices>
+  <httpServices>HTTPService.Descriptions</httpServices>
+  <httpServices>HTTPService.RequestParams</httpServices>
+  <httpServices>HTTPService.Responses</httpServices>
+  <httpServices>HTTPService.Swagger</httpServices>
+  <httpServices>HTTPService.Types</httpServices>
+</mdclass:Configuration>
