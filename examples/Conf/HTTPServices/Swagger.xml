@@ -44,6 +44,35 @@
 					</Method>
 				</ChildObjects>
 			</URLTemplate>
+			<URLTemplate uuid="575df332-801b-48ba-ba5e-1c4996f1b691">
+				<Properties>
+					<Name>Spec</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Spec</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/Spec</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="078fc369-317d-4b45-8c3f-5e3985757e92">
+						<Properties>
+							<Name>GET</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>GET</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>SwaggerSpec</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
 		</ChildObjects>
 	</HTTPService>
 </MetaDataObject>

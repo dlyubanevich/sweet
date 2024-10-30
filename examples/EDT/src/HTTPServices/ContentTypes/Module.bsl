@@ -1,45 +1,42 @@
 
 #Область ОписаниеПеременных
 
-//  Описание объектов:
-//      Item - Структура<пространство = "http://v8.1c.ru/8.1/data/core", префикс = "v8"> {
-//          * lang - Строка. Пример: "ru"
-//          * content - Строка. Пример: "Name"
-//      }
-//
+//	Описание объектов:
+//		Item - Структура<пространство = "http://v8.1c.ru/8.1/data/core", префикс = "v8"> {
+//			* lang - Строка. Пример: "ru"
+//			* content - Строка. Пример: "Name"
+//		}
 //		HTTPServiceProperties - Структура {
-//	        * Name - Строка. Пример: "Services"
-//          * Synonym - Массив из Структура {
-//	            * item - Объект(Item)
-//	        }
-//          * Comment - Строка. Пример:""
-//          * RootURL - Строка. Пример: "Services"
-//          * ReuseSessions - Перечисление [
-//	            * AutoUse
-//	            * Use
-//              * DontUse
-//	        ]. По умолчанию: AutoUse
-//          * SessionMaxAge - ЦелоеЧисло. По умолчанию: 20
-//      }
-//
-//      URLTemplateProperties - Структура {
-//	    	* Name - Строка. Пример: "Request"
-//          * Synonym - Массив из Структура {
-//	            * item - Объект(Item)
-//	        }
-//          * Comment - Строка. Пример:""
-//          * Template - Строка. Пример: "/Request"
-//      }
-//
-//      MethodProperties - Структура {
-//	    	* Name - Строка. Пример: "Request"
-//          * Synonym - Массив из Структура {
-//	            * item - Объект(Item)
-//	        }
-//          * Comment - Строка. Пример:""
-//          * HTTPMethod - Строка. Пример: "GET"
-//          * Handler - Строка. Пример: "RequestGET"
-//      }
+//			* Name - Строка. Пример: "Services"
+//			* Synonym - Массив из Структура {
+//				* item - Объект(Item)
+//			}
+//			* Comment - Строка. Пример: ""
+//			* RootURL - Строка. Пример: "Services"
+//			* ReuseSessions - Перечисление [
+//				* AutoUse
+//				* Use
+//				* DontUse
+//			]. По умолчанию: AutoUse
+//			* SessionMaxAge - ЦелоеЧисло. По умолчанию: 20
+//		}
+//		URLTemplateProperties - Структура {
+//			* Name - Строка. Пример: "Request"
+//			* Synonym - Массив из Структура {
+//				* item - Объект(Item)
+//			}
+//			* Comment - Строка. Пример: ""
+//			* Template - Строка. Пример: "/Request"
+//		}
+//		MethodProperties - Структура {
+//			* Name - Строка. Пример: "Request"
+//			* Synonym - Массив из Структура {
+//				* item - Объект(Item)
+//			}
+//			* Comment - Строка. Пример: ""
+//			* HTTPMethod - Строка. Пример: "GET"
+//			* Handler - Строка. Пример: "RequestGET"
+//		}
 
 #КонецОбласти
 

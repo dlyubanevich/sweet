@@ -24,4 +24,20 @@
       <handler>SwaggerUI</handler>
     </methods>
   </urlTemplates>
+  <urlTemplates uuid="575df332-801b-48ba-ba5e-1c4996f1b691">
+    <name>Spec</name>
+    <synonym>
+      <key>ru</key>
+      <value>Spec</value>
+    </synonym>
+    <template>/Spec</template>
+    <methods uuid="078fc369-317d-4b45-8c3f-5e3985757e92">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>GET</value>
+      </synonym>
+      <handler>SwaggerSpec</handler>
+    </methods>
+  </urlTemplates>
 </mdclass:HTTPService>
