@@ -25,4 +25,4 @@
 
 Пример работы с редактором:
 
-<video src="./images/editor-light.mp4"></video>
+https://github.com/user-attachments/assets/4b55022f-fb0f-4e7c-a37b-e81090537f51
