@@ -1,6 +1,6 @@
 # ![SWEET](../../logo/logo.svg) Редактор
 
-Полноценный [редактор](https://1c-swagger.ru/#editor) кода, с автозаменой и подсвечиванием ошибок. При помощи него можно быстро и удобно создавать/поддерживать комментарий к http-сервису.
+Полноценный [редактор](https://1c-swagger.ru/#editor) кода, с автозаменой и подсвечиванием ошибок. При помощи него можно быстро и удобно создавать или поддерживать комментарий к http-сервису.
 
 ![SWEET](./images/editor-light.png#gh-light-mode-only) ![SWEET](./images/editor-dark.png#gh-dark-mode-only)
 
@@ -25,4 +25,4 @@
 
 Пример работы с редактором:
 
-![example](./images/editor-light.mp4)
+<video src="./images/editor-light.mp4"></video>
