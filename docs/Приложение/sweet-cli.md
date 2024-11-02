@@ -2,15 +2,15 @@
 
 Доступны 2 режима использования приложения:
 
-![commands](./images/commands.png)
+![cli_commands](./images/cli_commands.png)
 
-1. **auto** - на основании [json-файла](settings-json.md), который содержит в себе все необходимые поля для генерации спецификации. 
+1. **auto** - на основании [json-файла с настройками](settings-json.md), который содержит в себе все необходимые поля для генерации спецификации. 
 
-![auto](./images/auto.png)
+![cli_auto](./images/cli_auto.png)
 
 2. **manual** - каждый параметр задается вручную 
 
-![manual](./images/manual.png)
+![cli_manual](./images/cli_manual.png)
 
 #### Результат работы приложения: ###
 

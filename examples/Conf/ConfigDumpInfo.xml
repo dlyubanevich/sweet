@@ -7,13 +7,13 @@
 		<Metadata name="CommonTemplate.HttpServicesXML.Template" id="f89f7647-9c95-4f04-b0d2-e0e22be23c2b.0" configVersion="05b9a5ef1ef8ad4696476cb0814cf10900000000"/>
 		<Metadata name="CommonTemplate.ImageJPG" id="ea4f5c8e-b22c-40c7-92c3-c313d90de0a8" configVersion="58af34a58e985649854a6f32bf0ce18b00000000"/>
 		<Metadata name="CommonTemplate.ImageJPG.Template" id="ea4f5c8e-b22c-40c7-92c3-c313d90de0a8.0" configVersion="06d1360153e8c045b09400ace41cf38e00000000"/>
-		<Metadata name="CommonTemplate.SwaggerUI" id="1f82b277-5a34-44df-8630-4e8b6949191e" configVersion="0dce4d9290606e438b083b47cc1144ca00000000"/>
-		<Metadata name="CommonTemplate.SwaggerUI.Template" id="1f82b277-5a34-44df-8630-4e8b6949191e.0" configVersion="3d2651d6c7ea7d4880582d6fbf1cb3aa00000000"/>
+		<Metadata name="CommonTemplate.SwaggerUI" id="1f82b277-5a34-44df-8630-4e8b6949191e" configVersion="4f99007917380e4a8a7db1465886074900000000"/>
+		<Metadata name="CommonTemplate.SwaggerUI.Template" id="1f82b277-5a34-44df-8630-4e8b6949191e.0" configVersion="99e020ea3d59814f9c332f1284a01edf00000000"/>
 		<Metadata name="CommonTemplate.SweetOAS" id="249e2469-74df-40d0-8580-c5b54eb89fe3" configVersion="b1a418dc08018a448f1608a2192dccf800000000"/>
 		<Metadata name="CommonTemplate.SweetOAS.Template" id="249e2469-74df-40d0-8580-c5b54eb89fe3.0" configVersion="589ef2c57a649249973b3aa844d84f3200000000"/>
-		<Metadata name="Configuration.Examples" id="5370cb61-ab2e-4027-aece-7f1d1640b4d3" configVersion="b1f1ba779ab5f04da728d8737973cdc900000000"/>
-		<Metadata name="Configuration.Examples.CommandInterface" id="e376151d-39c6-4dcd-a721-90faa1838034.a" configVersion="36741ca7baf1874d98ac314bf4cdea3500000000"/>
-		<Metadata name="Configuration.Examples.MainSectionCommandInterface" id="e376151d-39c6-4dcd-a721-90faa1838034.9" configVersion="8613f818622e524a82c3cdb81bf252e300000000"/>
+		<Metadata name="Configuration.Examples" id="5370cb61-ab2e-4027-aece-7f1d1640b4d3" configVersion="b9173688dcc05444ac3be58e89746b3100000000"/>
+		<Metadata name="Configuration.Examples.CommandInterface" id="e376151d-39c6-4dcd-a721-90faa1838034.a" configVersion="ee0fa39cecd736419f7063e6864a059b00000000"/>
+		<Metadata name="Configuration.Examples.MainSectionCommandInterface" id="e376151d-39c6-4dcd-a721-90faa1838034.9" configVersion="9baab36c2b77b447ad9dce8abbdb53d800000000"/>
 		<Metadata name="HTTPService.Bodies" id="0374c808-5f39-4e6d-85a4-2690dc1e9bef" configVersion="3154659a107dc44d8f4f58a5f71f072700000000">
 			<Metadata name="HTTPService.Bodies.URLTemplate.Objects" id="013ec16b-5176-4911-a4f9-876027a59ae2"/>
 			<Metadata name="HTTPService.Bodies.URLTemplate.Objects.Method.POST" id="70f15dc5-1a23-4bc7-953d-186a4b315c7e"/>
