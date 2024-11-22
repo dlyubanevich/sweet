@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<HTTPService uuid="5b3e01e8-9005-49f1-91e2-138eb86ee2fd">
+		<Properties>
+			<Name>RequestParams</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Разделы "Параметры URL", "Параметры запроса", "Заголовки"</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<RootURL>RequestParams</RootURL>
+			<ReuseSessions>AutoUse</ReuseSessions>
+			<SessionMaxAge>20</SessionMaxAge>
+		</Properties>
+		<ChildObjects>
+			<URLTemplate uuid="4a7b9196-d9b7-4ce5-a25e-d965da205974">
+				<Properties>
+					<Name>Path</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Path</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/Path/{path1}/{path2}/{path3}/{path4}</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="3ed489e6-98c8-4afc-b041-bacde14298be">
+						<Properties>
+							<Name>GET</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Пример описания параметров URL</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>PathGET</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
+			<URLTemplate uuid="d3481180-cdae-40a1-9c7f-cf652f903e8b">
+				<Properties>
+					<Name>Header</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Header</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/Header</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="5704b034-9b52-4a6d-b057-318d718e28a4">
+						<Properties>
+							<Name>GET</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Пример описания заголовков</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>HeaderGET</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
+			<URLTemplate uuid="89354d23-b172-4a98-a347-f524c6feae89">
+				<Properties>
+					<Name>Query</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Query</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/Query</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="90f248d7-43da-4b0a-86c4-42342bd6b89b">
+						<Properties>
+							<Name>GET</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Пример описания параметров запроса</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>QueryGET</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
+		</ChildObjects>
+	</HTTPService>
+</MetaDataObject>
