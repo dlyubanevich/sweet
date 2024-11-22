@@ -10,7 +10,9 @@
 
 - [**Онлайн-редактор**](https://sweet-editor.ru/#editor) - редактор документирующего комментария для быстрого и безошибочного написания документирующего комментария с предпоказом в Swagger UI.
 
-- [**Генератор спецификации**](https://infostart.ru/marketplace/2230565/) - бинарный файл приложения для генерации спецификации (CLI и GUI). Приложение написано на языке Rust.
+- [**Генератор спецификации**](https://infostart.ru/marketplace/2230565/) - бинарный файл приложения для генерации спецификации (CLI и GUI). 
+
+![Infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
 
 
 ## Преимущества
