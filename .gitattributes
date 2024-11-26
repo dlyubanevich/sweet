@@ -1,0 +1,13 @@
+# модули
+*	text=auto
+*.bsl		text		eol=crlf
+*.mdo		text		eol=crlf
+
+# картинки
+*.bmp   binary diff=exif
+*.gif   binary diff=exif
+*.ico   binary
+*.jpeg  binary diff=exif
+*.jpg   binary diff=exif
+*.png   binary diff=exif
+*.svg   text
