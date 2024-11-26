@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0374c808-5f39-4e6d-85a4-2690dc1e9bef">
+  <name>Bodies</name>
+  <synonym>
+    <key>ru</key>
+    <value>Раздел &quot;Тело запроса&quot;</value>
+  </synonym>
+  <rootURL>Bodies</rootURL>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+  <urlTemplates uuid="013ec16b-5176-4911-a4f9-876027a59ae2">
+    <name>Objects</name>
+    <synonym>
+      <key>ru</key>
+      <value>Objects</value>
+    </synonym>
+    <template>/Objects</template>
+    <methods uuid="70f15dc5-1a23-4bc7-953d-186a4b315c7e">
+      <name>POST</name>
+      <synonym>
+        <key>ru</key>
+        <value>Обязательного тела запроса</value>
+      </synonym>
+      <httpMethod>POST</httpMethod>
+      <handler>ObjectsPOST</handler>
+    </methods>
+    <methods uuid="adff26e4-a61e-4311-91a7-d71410b3b48f">
+      <name>PUT</name>
+      <synonym>
+        <key>ru</key>
+        <value>Тело запроса с различными контентами</value>
+      </synonym>
+      <httpMethod>PUT</httpMethod>
+      <handler>ObjectsPUT</handler>
+    </methods>
+  </urlTemplates>
+</mdclass:HTTPService>

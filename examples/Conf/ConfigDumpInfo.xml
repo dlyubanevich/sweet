@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ОбщегоНазначенияHTTP" id="47a4f9ea-7f06-4205-872f-1eb568f5820f" configVersion="b67e0cb017d9f04db2b12687ec6a9fe200000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияHTTP.Module" id="47a4f9ea-7f06-4205-872f-1eb568f5820f.0" configVersion="7dd645011e33e24f97505f6faf1514c600000000"/>
+		<Metadata name="CommonTemplate.HttpServicesXML" id="f89f7647-9c95-4f04-b0d2-e0e22be23c2b" configVersion="1f5c6643c3ab2c42a1d0666406801e5200000000"/>
+		<Metadata name="CommonTemplate.HttpServicesXML.Template" id="f89f7647-9c95-4f04-b0d2-e0e22be23c2b.0" configVersion="05b9a5ef1ef8ad4696476cb0814cf10900000000"/>
+		<Metadata name="CommonTemplate.ImageJPG" id="ea4f5c8e-b22c-40c7-92c3-c313d90de0a8" configVersion="58af34a58e985649854a6f32bf0ce18b00000000"/>
+		<Metadata name="CommonTemplate.ImageJPG.Template" id="ea4f5c8e-b22c-40c7-92c3-c313d90de0a8.0" configVersion="06d1360153e8c045b09400ace41cf38e00000000"/>
+		<Metadata name="CommonTemplate.SwaggerUI" id="1f82b277-5a34-44df-8630-4e8b6949191e" configVersion="4f99007917380e4a8a7db1465886074900000000"/>
+		<Metadata name="CommonTemplate.SwaggerUI.Template" id="1f82b277-5a34-44df-8630-4e8b6949191e.0" configVersion="99e020ea3d59814f9c332f1284a01edf00000000"/>
+		<Metadata name="CommonTemplate.SweetOAS" id="249e2469-74df-40d0-8580-c5b54eb89fe3" configVersion="b1a418dc08018a448f1608a2192dccf800000000"/>
+		<Metadata name="CommonTemplate.SweetOAS.Template" id="249e2469-74df-40d0-8580-c5b54eb89fe3.0" configVersion="589ef2c57a649249973b3aa844d84f3200000000"/>
+		<Metadata name="Configuration.Examples" id="5370cb61-ab2e-4027-aece-7f1d1640b4d3" configVersion="b9173688dcc05444ac3be58e89746b3100000000"/>
+		<Metadata name="Configuration.Examples.CommandInterface" id="e376151d-39c6-4dcd-a721-90faa1838034.a" configVersion="ee0fa39cecd736419f7063e6864a059b00000000"/>
+		<Metadata name="Configuration.Examples.MainSectionCommandInterface" id="e376151d-39c6-4dcd-a721-90faa1838034.9" configVersion="9baab36c2b77b447ad9dce8abbdb53d800000000"/>
+		<Metadata name="HTTPService.Bodies" id="0374c808-5f39-4e6d-85a4-2690dc1e9bef" configVersion="3154659a107dc44d8f4f58a5f71f072700000000">
+			<Metadata name="HTTPService.Bodies.URLTemplate.Objects" id="013ec16b-5176-4911-a4f9-876027a59ae2"/>
+			<Metadata name="HTTPService.Bodies.URLTemplate.Objects.Method.POST" id="70f15dc5-1a23-4bc7-953d-186a4b315c7e"/>
+			<Metadata name="HTTPService.Bodies.URLTemplate.Objects.Method.PUT" id="adff26e4-a61e-4311-91a7-d71410b3b48f"/>
+		</Metadata>
+		<Metadata name="HTTPService.Bodies.Module" id="0374c808-5f39-4e6d-85a4-2690dc1e9bef.0" configVersion="f810d3bd8513b64e80850aaed248c53f00000000"/>
+		<Metadata name="HTTPService.ContentTypes" id="b36908a5-57a8-490f-8b89-83f714929381" configVersion="1ccfc53bd5424d43a9b2f345994b5d1500000000">
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Text" id="00c0ce78-1f40-483a-84ab-4d97e2325ee8"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Stream" id="0ed3b201-9f36-48cf-8960-7eb4ffed99c5"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Image.Method.Get" id="0f309f51-2287-405e-94ce-0516b3cbc17d"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.JSON" id="4e4248d8-138f-4959-86b2-f48e919b58db"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.XML.Method.POST" id="803d6f90-e781-47d0-8d3e-ffbda6bc3e21"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Image" id="9c21d85f-edd9-4c16-924b-c5e70c58f302"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Other.Method.Post" id="9ed96ce1-f59f-4c8d-ad98-48c85492e45f"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.XML.Method.DELETE" id="ad5e6c96-5605-4a57-8a77-439f9462e525"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.XML" id="ae1f53b8-a210-4751-ab97-5891a6bb5c7e"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Stream.Method.Get" id="bca8f7cb-1d09-4b96-8b42-8657b99851e2"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Other.Method.Get" id="c360835d-bb17-4877-813d-e522bbceab43"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Other" id="c8a27f48-23da-4ff1-8fac-f8835e329e2f"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.Text.Method.Get" id="e7dc947b-5b95-47e0-a18e-c34b4b8c1a3e"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.XML.Method.GET" id="f06c9df0-016a-4fb6-98d5-04fe9d63cdb4"/>
+			<Metadata name="HTTPService.ContentTypes.URLTemplate.JSON.Method.Get" id="f7c99aaa-49e6-4f45-9dff-bea7b7298eba"/>
+		</Metadata>
+		<Metadata name="HTTPService.ContentTypes.Module" id="b36908a5-57a8-490f-8b89-83f714929381.0" configVersion="eebdd2664ea6034589244cf87cac329b00000000"/>
+		<Metadata name="HTTPService.Descriptions" id="6f6f0951-35f9-4726-accf-37a8eea2c060" configVersion="c12ad0a6b80c0b41a74a4b028c124efc00000000">
+			<Metadata name="HTTPService.Descriptions.URLTemplate.Variants" id="02606f9c-9ac3-4d73-a930-fe79734b8012"/>
+			<Metadata name="HTTPService.Descriptions.URLTemplate.Variants.Method.GET" id="a4955fd8-8510-4c49-a25f-fa20faef7b89"/>
+		</Metadata>
+		<Metadata name="HTTPService.Descriptions.Module" id="6f6f0951-35f9-4726-accf-37a8eea2c060.0" configVersion="621d34d2e7823a4e99d9becef7170f7c00000000"/>
+		<Metadata name="HTTPService.RequestParams" id="5b3e01e8-9005-49f1-91e2-138eb86ee2fd" configVersion="79eca0c7a515f442a3a86e0e5d33077000000000">
+			<Metadata name="HTTPService.RequestParams.URLTemplate.Path.Method.GET" id="3ed489e6-98c8-4afc-b041-bacde14298be"/>
+			<Metadata name="HTTPService.RequestParams.URLTemplate.Path" id="4a7b9196-d9b7-4ce5-a25e-d965da205974"/>
+			<Metadata name="HTTPService.RequestParams.URLTemplate.Header.Method.GET" id="5704b034-9b52-4a6d-b057-318d718e28a4"/>
+			<Metadata name="HTTPService.RequestParams.URLTemplate.Query" id="89354d23-b172-4a98-a347-f524c6feae89"/>
+			<Metadata name="HTTPService.RequestParams.URLTemplate.Query.Method.GET" id="90f248d7-43da-4b0a-86c4-42342bd6b89b"/>
+			<Metadata name="HTTPService.RequestParams.URLTemplate.Header" id="d3481180-cdae-40a1-9c7f-cf652f903e8b"/>
+		</Metadata>
+		<Metadata name="HTTPService.RequestParams.Module" id="5b3e01e8-9005-49f1-91e2-138eb86ee2fd.0" configVersion="9c0020367ef7be44b98346e7af3c8a4200000000"/>
+		<Metadata name="HTTPService.Responses" id="5a86557b-7e7a-4c4b-ad5b-4f6790544c82" configVersion="7c7a14b9a1338348a7af48457825bfd700000000">
+			<Metadata name="HTTPService.Responses.URLTemplate.Variants.Method.GET" id="25062d10-e210-4cd9-b10f-dae8f1a36071"/>
+			<Metadata name="HTTPService.Responses.URLTemplate.Variants.Method.POST" id="c026e94e-d9ac-4823-babc-f2b36e66eb24"/>
+			<Metadata name="HTTPService.Responses.URLTemplate.Variants" id="e6708ca5-ad2f-4abe-baf5-062449015340"/>
+		</Metadata>
+		<Metadata name="HTTPService.Responses.Module" id="5a86557b-7e7a-4c4b-ad5b-4f6790544c82.0" configVersion="fa9669660b91474190911de097edd2fa00000000"/>
+		<Metadata name="HTTPService.Swagger" id="b408c74a-2f6d-4a6a-9665-5c208bd3d5e4" configVersion="93fe704d7a75744cb67ca8b8fbde74f800000000">
+			<Metadata name="HTTPService.Swagger.URLTemplate.Spec.Method.GET" id="078fc369-317d-4b45-8c3f-5e3985757e92"/>
+			<Metadata name="HTTPService.Swagger.URLTemplate.UI.Method.GET" id="3facf21e-b27d-4742-9da6-7623eacb2acb"/>
+			<Metadata name="HTTPService.Swagger.URLTemplate.Spec" id="575df332-801b-48ba-ba5e-1c4996f1b691"/>
+			<Metadata name="HTTPService.Swagger.URLTemplate.UI" id="f574a204-4bea-4f68-9e5f-0d0fa19f7eee"/>
+		</Metadata>
+		<Metadata name="HTTPService.Swagger.Module" id="b408c74a-2f6d-4a6a-9665-5c208bd3d5e4.0" configVersion="a2baaf4c55c8e64e833b94e6bc70b19100000000"/>
+		<Metadata name="HTTPService.Types" id="c187d811-2878-4377-bcd8-8bd9eb5fa4c1" configVersion="2f5bc70dc0613d4487732ce7ebdb617f00000000">
+			<Metadata name="HTTPService.Types.URLTemplate.Structure" id="0e4a188c-5c50-4a64-b456-666e1d0abadc"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Structure.Method.GET" id="399e324b-38a4-4e3a-b7d3-251d04722d9a"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Other" id="756a71b3-ab8b-416e-a922-e818be34f3a9"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Primitive" id="8450a9a7-5369-44c5-8b99-7b7ed37e94c7"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Primitive.Method.POST" id="a78212c7-6b26-49d2-86f2-e7573b634c11"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Primitive.Method.GET" id="acc25153-b0e3-4dd4-bfb0-f7b1717edb86"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Array.Method.GET" id="de0d9414-08a5-4ad9-870e-2b93e5d62dfb"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Array" id="e8bf6c46-90fc-46d4-a402-b8a4a7679824"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Other.Method.GET" id="f69ed22f-9ebb-4360-807e-d5902b1d6c57"/>
+			<Metadata name="HTTPService.Types.URLTemplate.Array.Method.POST" id="fc908bf3-a636-4e09-a8aa-93e0684177d2"/>
+		</Metadata>
+		<Metadata name="HTTPService.Types.Module" id="c187d811-2878-4377-bcd8-8bd9eb5fa4c1.0" configVersion="aa11282fbdcc9e41b32c782a1183c1d300000000"/>
+		<Metadata name="Language.Русский" id="fcc2c98a-0b9f-4284-8a4b-754aae88e92e" configVersion="f81de68d678cb145b6532a55d3b6200400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

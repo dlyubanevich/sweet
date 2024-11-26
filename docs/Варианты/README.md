@@ -6,7 +6,7 @@
 
 Спецификацию из общего макета или url-ссылку на спецификацию можно использовать в http-сервисе. Т.е. для опубликованной базы на веб-сервере будет доступен сервис, который предоставляет Swagger UI для этой базы. 
 
-[http://localhost:80/hs/Swagger/UI](../../examples/HTTPServices/Swagger/Ext/Module.bsl) - готовый http-сервис из конфигурации с примерами
+[http://localhost:80/hs/Swagger/UI](../../examples/EDT/src/HTTPServices/Swagger/Module.bsl) - готовый http-сервис из конфигурации с примерами
 
 ### 2. Отдельный сайт
 

@@ -1,9 +1,10 @@
-# модули
-*	text=auto
+*.docs linguist-documentation
+*.logo linguist-documentation
+
+* text=auto
 *.bsl		text		eol=crlf
 *.mdo		text		eol=crlf
 
-# картинки
 *.bmp   binary diff=exif
 *.gif   binary diff=exif
 *.ico   binary
