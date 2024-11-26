@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="249e2469-74df-40d0-8580-c5b54eb89fe3">
-  <name>SweetOAS</name>
-  <synonym>
-    <key>ru</key>
-    <value>Sweet OAS</value>
-  </synonym>
-  <templateType>TextDocument</templateType>
-</mdclass:CommonTemplate>
