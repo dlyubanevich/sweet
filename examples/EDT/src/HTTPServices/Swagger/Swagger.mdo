@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b408c74a-2f6d-4a6a-9665-5c208bd3d5e4">
+  <name>Swagger</name>
+  <synonym>
+    <key>ru</key>
+    <value>Swagger</value>
+  </synonym>
+  <rootURL>Swagger</rootURL>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+  <urlTemplates uuid="f574a204-4bea-4f68-9e5f-0d0fa19f7eee">
+    <name>UI</name>
+    <synonym>
+      <key>ru</key>
+      <value>UI</value>
+    </synonym>
+    <template>/UI</template>
+    <methods uuid="3facf21e-b27d-4742-9da6-7623eacb2acb">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>GET</value>
+      </synonym>
+      <handler>SwaggerUI</handler>
+    </methods>
+  </urlTemplates>
+  <urlTemplates uuid="575df332-801b-48ba-ba5e-1c4996f1b691">
+    <name>Spec</name>
+    <synonym>
+      <key>ru</key>
+      <value>Spec</value>
+    </synonym>
+    <template>/Spec</template>
+    <methods uuid="078fc369-317d-4b45-8c3f-5e3985757e92">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>GET</value>
+      </synonym>
+      <handler>SwaggerSpec</handler>
+    </methods>
+  </urlTemplates>
+</mdclass:HTTPService>

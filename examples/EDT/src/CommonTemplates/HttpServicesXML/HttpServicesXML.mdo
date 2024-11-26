@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f89f7647-9c95-4f04-b0d2-e0e22be23c2b">
+  <name>HttpServicesXML</name>
+  <synonym>
+    <key>ru</key>
+    <value>Http services XML</value>
+  </synonym>
+  <templateType>TextDocument</templateType>
+</mdclass:CommonTemplate>
