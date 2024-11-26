@@ -10,4 +10,4 @@
 
 [**Типы контента**](./types/Типы%20контента.md)
 
-> [Примеры](../../examples/EDT/src/HTTPServices/Types/Module.bsl)
+> [Примеры](../../exts/EDT/src/HTTPServices/Types/Module.bsl)
